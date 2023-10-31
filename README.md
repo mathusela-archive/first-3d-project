@@ -7,3 +7,5 @@
 My first project in OpenGL.
 
 Oh how far we've come!
+
+![image](docs/image.png)
